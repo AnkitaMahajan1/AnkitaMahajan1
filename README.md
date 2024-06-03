@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 👋 Hi, I'm Ankita!
+https://github-readme-stats.vercel.app/api?username=AnkitaMahajan1
 <!--
 **AnkitaMahajan1/AnkitaMahajan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
