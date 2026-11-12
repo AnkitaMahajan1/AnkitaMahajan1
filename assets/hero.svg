@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Ankita Mahajan — Full Stack and AI Engineer</title>
+<desc id="desc">Creative dark developer banner with neon gradients, abstract orbits and a terminal motif.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset=".55" stop-color="#17112D"/><stop offset="1" stop-color="#081B2B"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#8B5CF6" stop-opacity=".42"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A5B4FC" stroke-opacity=".08"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/><rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+<circle cx="1010" cy="85" r="180" fill="url(#orb)" filter="url(#blur)"/><circle cx="180" cy="330" r="150" fill="#06B6D4" opacity=".09" filter="url(#blur)"/>
+<g fill="none" stroke="url(#glow)" stroke-opacity=".55"><ellipse cx="1000" cy="180" rx="155" ry="62" transform="rotate(-28 1000 180)" stroke-width="1.5"/><ellipse cx="1000" cy="180" rx="155" ry="62" transform="rotate(28 1000 180)" stroke-width="1.5"/><circle cx="1000" cy="180" r="95" stroke-dasharray="4 10"/></g>
+<g fill="#67E8F9"><circle cx="1138" cy="103" r="4"/><circle cx="877" cy="235" r="3"/><circle cx="1040" cy="73" r="3"/></g>
+<g transform="translate(74 78)"><rect width="68" height="28" rx="14" fill="#312E81" stroke="#8B5CF6" stroke-opacity=".7"/><text x="34" y="19" fill="#DDD6FE" text-anchor="middle" font-family="monospace" font-size="12">HELLO</text>
+<text x="0" y="100" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Ankita Mahajan</text>
+<text x="2" y="143" fill="url(#glow)" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Full Stack &amp; AI Engineer</text>
+<text x="2" y="184" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="17">Building useful products at the intersection of code and intelligence.</text></g>
+<g transform="translate(830 270)"><rect width="286" height="48" rx="12" fill="#0B1220" stroke="#334155"/><circle cx="19" cy="17" r="4" fill="#FB7185"/><circle cx="34" cy="17" r="4" fill="#FBBF24"/><circle cx="49" cy="17" r="4" fill="#34D399"/><text x="18" y="36" fill="#A5F3FC" font-family="monospace" font-size="12">const mindset = "build + learn";</text></g>
+</svg>
